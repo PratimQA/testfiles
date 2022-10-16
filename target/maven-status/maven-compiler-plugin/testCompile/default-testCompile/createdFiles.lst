@@ -1,0 +1,7 @@
+pages\LoginPage.class
+testRunner\TestRun.class
+StepDefinitions\Steps.class
+utilities\WaitHelper.class
+pages\DashboardPage.class
+pages\PrsnlDtlsPage.class
+StepDefinitions\BaseClass.class
